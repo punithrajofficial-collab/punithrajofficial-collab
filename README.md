@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Punith Raj Banner" width="100%">
-</p>
-
 <h1 align="center">Hi 👋, I'm Punith Raj</h1>
 
 <h3 align="center">
@@ -16,7 +12,7 @@ Building production-ready AI systems using Python, LangGraph, FastAPI, and Cloud
 
 ## 👨‍💻 About Me
 
-- 🤖 AI Engineer from India
+- 🇮🇳 AI Engineer from India
 - 🚀 Building Production AI Applications
 - 🧠 Specialized in LLMs, RAG & Agentic AI
 - 💬 Conversational AI & Voice AI
@@ -33,14 +29,14 @@ Building production-ready AI systems using Python, LangGraph, FastAPI, and Cloud
 
 ### AI & Machine Learning
 - Large Language Models (LLMs)
-- Retrieval Augmented Generation (RAG)
+- Retrieval-Augmented Generation (RAG)
 - Agentic AI
 - LangGraph
 - LangChain
 - Prompt Engineering
-- NLP
 - Machine Learning
 - Deep Learning
+- NLP
 
 ### Backend
 - FastAPI
@@ -88,11 +84,11 @@ Scalable backend services for production AI applications.
 - 💼 AI Engineer @ TCS
 - 💼 Associate AI Engineer @ Cognizant
 - 💼 Junior AI Engineer @ Tech Mahindra
-- 🚀 Production AI Systems
-- 📈 60K+ Daily AI Calls
-- ⚡ <1.2 Second AI Response Latency
-- 💰 75% Reduction in TTS Costs
-- 📊 3× Hiring Productivity Improvement
+- 🚀 Built Production AI Systems
+- 📈 Handled 60K+ Daily AI Calls
+- ⚡ Achieved <1.2s AI Response Latency
+- 💰 Reduced TTS Cost by 75%
+- 📊 Improved Hiring Productivity by 3×
 
 ---
 
@@ -106,7 +102,7 @@ Scalable backend services for production AI applications.
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Connect With Me
 
 - 📧 Email: punithraj.official@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/kpunithraj
@@ -116,7 +112,7 @@ Scalable backend services for production AI applications.
 
 ## 💡 Quote
 
-> *"Building AI solutions that solve real-world problems at production scale."*
+> "Building AI solutions that solve real-world problems at production scale."
 
 ---
 

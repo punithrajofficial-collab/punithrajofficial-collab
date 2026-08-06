@@ -1,93 +1,125 @@
+<p align="center">
+  <img src="banner.png" alt="Punith Raj Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Punith Raj</h1>
 
-<p align="center">
-AI Engineer • LLMs • Agentic AI • RAG • Voice AI
-</p>
+<h3 align="center">
+AI Engineer | LLMs | Agentic AI | RAG | Voice AI
+</h3>
 
 <p align="center">
-Building production-ready AI systems with Python, LangGraph, FastAPI and Cloud Technologies.
+Building production-ready AI systems using Python, LangGraph, FastAPI, and Cloud Technologies.
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-🚀 AI Engineer from India
-
-🤖 Specialized in LLM Applications
-
-🧠 Building Agentic AI Systems
-
-🎙️ Voice AI & Conversational AI
-
-⚡ FastAPI | Python | LangGraph
-
-☁️ Cloud & Docker
+- 🤖 AI Engineer from India
+- 🚀 Building Production AI Applications
+- 🧠 Specialized in LLMs, RAG & Agentic AI
+- 💬 Conversational AI & Voice AI
+- ⚡ FastAPI | LangGraph | Python
+- ☁️ Cloud, Docker & MLOps
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 - Python
 - SQL
 
-### AI
-- LLMs
-- RAG
+### AI & Machine Learning
+- Large Language Models (LLMs)
+- Retrieval Augmented Generation (RAG)
+- Agentic AI
 - LangGraph
 - LangChain
 - Prompt Engineering
 - NLP
-- PyTorch
-- TensorFlow
+- Machine Learning
+- Deep Learning
 
 ### Backend
 - FastAPI
 - REST APIs
 
 ### Databases
+- PostgreSQL
+- MySQL
 - Redis
 - Milvus
-- PostgreSQL
 
-### DevOps
+### DevOps & Cloud
 - Docker
 - Git
 - GitHub
+- CI/CD
+- GCP
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-🤖 AI Voice Recruiter
+### 🤖 AI Voice Recruiter
+Production-grade AI recruiter supporting inbound & outbound voice conversations.
 
-💬 WhatsApp Hiring Assistant
+### 💬 WhatsApp Hiring Assistant
+AI-powered hiring assistant built using LangGraph and WhatsApp APIs.
 
-🧠 Multi-Agent Healthcare Chatbot
+### 🧠 Multi-Agent Healthcare Chatbot
+Multi-agent RAG chatbot with long-term conversational memory.
 
-📊 Sales Intelligence Platform
+### 📄 AI Report Explanation
+Automatically converts reports into AI-generated explanation videos.
 
-🎥 AI Report Video Generator
+### 📊 Sales Intelligence Platform
+AI-powered sales call auditing and customer insights.
 
----
-
-# 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=punithrajofficial-collab&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=punithrajofficial-collab&layout=compact&theme=tokyonight)
-
----
-
-# 📫 Connect
-
-📧 Email: **punithraj.official@gmail.com**
-
-💼 LinkedIn: **linkedin.com/in/kpunithraj**
-
-🐙 GitHub: **github.com/punithrajofficial-collab**
+### ⚡ FastAPI AI Backend
+Scalable backend services for production AI applications.
 
 ---
 
-> **"Building AI that solves real-world problems."**
+## 🏆 Career Highlights
+
+- 💼 AI Engineer @ TCS
+- 💼 Associate AI Engineer @ Cognizant
+- 💼 Junior AI Engineer @ Tech Mahindra
+- 🚀 Production AI Systems
+- 📈 60K+ Daily AI Calls
+- ⚡ <1.2 Second AI Response Latency
+- 💰 75% Reduction in TTS Costs
+- 📊 3× Hiring Productivity Improvement
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Agentic AI
+- Multi-Agent Systems
+- AI Infrastructure
+- Kubernetes
+- Distributed AI Systems
+
+---
+
+## 🌐 Connect With Me
+
+- 📧 Email: punithraj.official@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/kpunithraj
+- 💻 GitHub: https://github.com/punithrajofficial-collab
+
+---
+
+## 💡 Quote
+
+> *"Building AI solutions that solve real-world problems at production scale."*
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my GitHub Profile ⭐
+</p>

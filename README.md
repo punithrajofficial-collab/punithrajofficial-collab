@@ -5,117 +5,139 @@ AI Engineer | LLMs | Agentic AI | RAG | Voice AI
 </h3>
 
 <p align="center">
-Building production-ready AI systems using Python, LangGraph, FastAPI, and Cloud Technologies.
+Building production-ready AI systems using Python, LangGraph, FastAPI, Cloud Technologies, and Generative AI.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🇮🇳 AI Engineer from India
-- 🚀 Building Production AI Applications
-- 🧠 Specialized in LLMs, RAG & Agentic AI
-- 💬 Conversational AI & Voice AI
-- ⚡ FastAPI | LangGraph | Python
-- ☁️ Cloud, Docker & MLOps
+- 🤖 AI Engineer with expertise in LLMs, Agentic AI, RAG, and Conversational AI
+- 🚀 Building scalable production AI applications
+- 💬 Specialized in Voice AI & WhatsApp AI Automation
+- ⚡ Passionate about solving real-world problems using AI
+- 🌱 Currently exploring Multi-Agent Systems and AI Infrastructure
 
 ---
 
-## 🛠️ Tech Stack
+# 💼 Experience
 
-### Languages
-- Python
-- SQL
+### 🏢 TCS – AI Engineer
 
-### AI & Machine Learning
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
+- Built AI Voice Recruiter supporting inbound & outbound calls
+- Unified Voice + WhatsApp Hiring Pipeline
+- Production Agentic AI workflows
+- Redis-powered conversation memory
+- FastAPI backend services
+
+### 🏢 Cognizant – Associate AI Engineer
+
+- WhatsApp Hiring Chatbot using LangGraph
+- Multi-Agent Healthcare Chatbot
+- AI Video Report Explanation
+- AI Analytics & Workflow Automation
+- Cloud-based AI Deployments
+
+### 🏢 Tech Mahindra – Junior AI Engineer
+
+- AI Sales Intelligence Platform
+- Customer Support Email Agent
+- Golang Microservices Migration
+- Marketing Automation Platform
+
+---
+
+# 🏆 Key Achievements
+
+- 🚀 Improved hiring productivity by **3×**
+- 📈 Increased connect-to-interest conversion by **40%**
+- 💬 Improved WhatsApp response rate from **21% → 30%**
+- ⚡ Achieved **<1.2 second** production latency
+- 📞 Built systems handling **60K+ AI calls/day**
+- 💰 Reduced TTS costs by **75%**
+- ⏱ Reduced API latency from **600ms → <200ms**
+
+---
+
+# 🚀 Production AI Projects
+
+- 🤖 AI Voice Recruiter
+- 💬 WhatsApp Hiring Assistant
+- 🧠 Multi-Agent Healthcare Chatbot
+- 📄 AI Report Explanation
+- 📊 AI Sales Intelligence Platform
+- 📧 AI Email Support Agent
+
+---
+
+# 🛠 Tech Stack
+
+## AI
+
+- LLMs
 - Agentic AI
+- RAG
 - LangGraph
 - LangChain
 - Prompt Engineering
+- NLP
 - Machine Learning
 - Deep Learning
-- NLP
+- Computer Vision
 
-### Backend
+## Backend
+
+- Python
 - FastAPI
 - REST APIs
 
-### Databases
-- PostgreSQL
-- MySQL
+## Frameworks
+
+- PyTorch
+- TensorFlow
+- Scikit-Learn
+- Streamlit
+- Pandas
+- NumPy
+
+## Databases
+
 - Redis
 - Milvus
+- MySQL
+- SQL
 
-### DevOps & Cloud
+## DevOps
+
 - Docker
 - Git
 - GitHub
 - CI/CD
-- GCP
+- Cloud Deployment
 
 ---
 
-## 🚀 Featured Projects
+# 🎯 Interests
 
-### 🤖 AI Voice Recruiter
-Production-grade AI recruiter supporting inbound & outbound voice conversations.
-
-### 💬 WhatsApp Hiring Assistant
-AI-powered hiring assistant built using LangGraph and WhatsApp APIs.
-
-### 🧠 Multi-Agent Healthcare Chatbot
-Multi-agent RAG chatbot with long-term conversational memory.
-
-### 📄 AI Report Explanation
-Automatically converts reports into AI-generated explanation videos.
-
-### 📊 Sales Intelligence Platform
-AI-powered sales call auditing and customer insights.
-
-### ⚡ FastAPI AI Backend
-Scalable backend services for production AI applications.
-
----
-
-## 🏆 Career Highlights
-
-- 💼 AI Engineer @ TCS
-- 💼 Associate AI Engineer @ Cognizant
-- 💼 Junior AI Engineer @ Tech Mahindra
-- 🚀 Built Production AI Systems
-- 📈 Handled 60K+ Daily AI Calls
-- ⚡ Achieved <1.2s AI Response Latency
-- 💰 Reduced TTS Cost by 75%
-- 📊 Improved Hiring Productivity by 3×
-
----
-
-## 📚 Currently Learning
-
-- Advanced Agentic AI
+- Agentic AI
+- Voice AI
 - Multi-Agent Systems
 - AI Infrastructure
-- Kubernetes
-- Distributed AI Systems
+- Cloud AI
+- Generative AI
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect
 
-- 📧 Email: punithraj.official@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/kpunithraj
-- 💻 GitHub: https://github.com/punithrajofficial-collab
+📧 punithraj.official@gmail.com
 
----
+💼 https://linkedin.com/in/kpunithraj
 
-## 💡 Quote
-
-> "Building AI solutions that solve real-world problems at production scale."
+💻 https://github.com/punithrajofficial-collab
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my GitHub Profile ⭐
+⭐ Building AI that creates measurable business impact ⭐
 </p>

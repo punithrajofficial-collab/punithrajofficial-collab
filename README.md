@@ -1,39 +1,46 @@
 <h1 align="center">Hi 👋, I'm Punith Raj</h1>
-<h3 align="center">AI Engineer | LLMs | Agentic AI | RAG | Voice AI</h3>
 
 <p align="center">
-Building production-ready AI applications with Python, LangGraph, FastAPI, and Generative AI.
+AI Engineer • LLMs • Agentic AI • RAG • Voice AI
+</p>
+
+<p align="center">
+Building production-ready AI systems with Python, LangGraph, FastAPI and Cloud Technologies.
 </p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-- 🤖 AI Engineer
-- 🧠 Specialized in LLMs, RAG & Agentic AI
-- 🎙️ Building Voice AI & Conversational AI systems
-- 🌱 Currently exploring advanced AI agents and cloud-native AI
-- 💡 Passionate about solving real-world problems with AI
+🚀 AI Engineer from India
+
+🤖 Specialized in LLM Applications
+
+🧠 Building Agentic AI Systems
+
+🎙️ Voice AI & Conversational AI
+
+⚡ FastAPI | Python | LangGraph
+
+☁️ Cloud & Docker
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
 - Python
 - SQL
 
-### AI & Machine Learning
+### AI
 - LLMs
 - RAG
 - LangGraph
 - LangChain
 - Prompt Engineering
-- Generative AI
 - NLP
 - PyTorch
 - TensorFlow
-- Scikit-Learn
 
 ### Backend
 - FastAPI
@@ -42,7 +49,7 @@ Building production-ready AI applications with Python, LangGraph, FastAPI, and G
 ### Databases
 - Redis
 - Milvus
-- Vector Databases
+- PostgreSQL
 
 ### DevOps
 - Docker
@@ -51,19 +58,36 @@ Building production-ready AI applications with Python, LangGraph, FastAPI, and G
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=punithrajofficial-collab&show_icons=true&theme=tokyonight)
+🤖 AI Voice Recruiter
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=punithrajofficial-collab&layout=compact&theme=tokyonight)
+💬 WhatsApp Hiring Assistant
+
+🧠 Multi-Agent Healthcare Chatbot
+
+📊 Sales Intelligence Platform
+
+🎥 AI Report Video Generator
 
 ---
 
-## 📫 Connect With Me
+# 📈 GitHub Stats
 
-- 💼 LinkedIn: https://linkedin.com/in/kpunithraj
-- 📧 Email: punithraj.official@gmail.com
+![](https://github-readme-stats.vercel.app/api?username=punithrajofficial-collab&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=punithrajofficial-collab&layout=compact&theme=tokyonight)
 
 ---
 
-⭐ *"Building intelligent AI systems that create real-world impact."*
+# 📫 Connect
+
+📧 Email: **punithraj.official@gmail.com**
+
+💼 LinkedIn: **linkedin.com/in/kpunithraj**
+
+🐙 GitHub: **github.com/punithrajofficial-collab**
+
+---
+
+> **"Building AI that solves real-world problems."**

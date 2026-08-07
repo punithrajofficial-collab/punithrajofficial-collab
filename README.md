@@ -1,143 +1,117 @@
-<h1 align="center">Hi 👋, I'm Punith Raj</h1>
+<div align="center">
 
-<h3 align="center">
-AI Engineer | LLMs | Agentic AI | RAG | Voice AI
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=220&section=header&text=Hi%20👋,%20I'm%20Punith%20Raj&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20|%20LLMs%20|%20Agentic%20AI%20|%20RAG%20|%20Voice%20AI&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-Building production-ready AI systems using Python, LangGraph, FastAPI, Cloud Technologies, and Generative AI.
-</p>
+<br/>
 
----
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+Engineer+%40+TCS%2C+Bengaluru;Building+Voice+Bots+%26+RAG+Systems;LangGraph+%7C+LangChain+%7C+FastAPI;Turning+Ideas+Into+Production+AI)
 
-# 👨‍💻 About Me
-
-- 🤖 AI Engineer with expertise in LLMs, Agentic AI, RAG, and Conversational AI
-- 🚀 Building scalable production AI applications
-- 💬 Specialized in Voice AI & WhatsApp AI Automation
-- ⚡ Passionate about solving real-world problems using AI
-- 🌱 Currently exploring Multi-Agent Systems and AI Infrastructure
+</div>
 
 ---
 
-# 💼 Experience
+### 🧠 About Me
 
-### 🏢 TCS – AI Engineer
+AI Engineer with expertise in **LLMs, RAG, Agentic AI, and Conversational AI**. Experienced in designing and deploying scalable AI solutions using Python, LangGraph, FastAPI, and cloud technologies — delivering measurable improvements in efficiency and business outcomes.
 
-- Built AI Voice Recruiter supporting inbound & outbound calls
-- Unified Voice + WhatsApp Hiring Pipeline
-- Production Agentic AI workflows
-- Redis-powered conversation memory
-- FastAPI backend services
-
-### 🏢 Cognizant – Associate AI Engineer
-
-- WhatsApp Hiring Chatbot using LangGraph
-- Multi-Agent Healthcare Chatbot
-- AI Video Report Explanation
-- AI Analytics & Workflow Automation
-- Cloud-based AI Deployments
-
-### 🏢 Tech Mahindra – Junior AI Engineer
-
-- AI Sales Intelligence Platform
-- Customer Support Email Agent
-- Golang Microservices Migration
-- Marketing Automation Platform
+- 🎙️ Specialized in **Voice AI** (Pipecat, ElevenLabs) and **WhatsApp AI Automation**
+- 🚀 Building production-grade agentic AI workflows at **TCS, Bengaluru**
+- ⚡ Passionate about solving real-world problems with AI
+- 🌱 Currently exploring **Multi-Agent Systems** and AI infrastructure at scale
 
 ---
 
-# 🏆 Key Achievements
+### 💼 Experience
 
-- 🚀 Improved hiring productivity by **3×**
-- 📈 Increased connect-to-interest conversion by **40%**
-- 💬 Improved WhatsApp response rate from **21% → 30%**
-- ⚡ Achieved **<1.2 second** production latency
-- 📞 Built systems handling **60K+ AI calls/day**
-- 💰 Reduced TTS costs by **75%**
-- ⏱ Reduced API latency from **600ms → <200ms**
+**🏢 AI Engineer — TCS, Bengaluru** `Feb 2026 – Present`
+- Unified Voice + WhatsApp hiring pipeline with cross-channel memory and a Redis-based nudge engine — improved connect-to-interest conversion by **40%**, WhatsApp response rate 21% → 30%
+- Built an AI Voice Recruiter Bot (Pipecat) for blue-collar hiring across two telephony providers — **<1.2s** average bot latency in production
 
----
+**🏢 Associate AI Engineer — Cognizant, Bengaluru** `Jan 2025 – Jan 2026`
+- Re-architected a call center's lifecycle into async, queue-based dialing — cut p50 call duration **4.5h → 1.5h** across 60K+ daily calls
+- Centralized Milvus-based TTS cache — cut TTS costs by **75%** and audio lag by 0.7s
+- Built a WhatsApp Recruiter Chatbot (0→1) with LangGraph — 20+ flow variants, voice notes, multi-language support
+- 35% improvement in goal completion via A/B testing (ClickHouse, n8n, NotebookLM)
+- Multi-Agent Healthcare Chatbot — multi-agent RAG architecture, event-driven on GCP with CI/CD
+- Video health-report explainer using FFmpeg + ElevenLabs + Python Lambda
 
-# 🚀 Production AI Projects
-
-- 🤖 AI Voice Recruiter
-- 💬 WhatsApp Hiring Assistant
-- 🧠 Multi-Agent Healthcare Chatbot
-- 📄 AI Report Explanation
-- 📊 AI Sales Intelligence Platform
-- 📧 AI Email Support Agent
-
----
-
-# 🛠 Tech Stack
-
-## AI
-
-- LLMs
-- Agentic AI
-- RAG
-- LangGraph
-- LangChain
-- Prompt Engineering
-- NLP
-- Machine Learning
-- Deep Learning
-- Computer Vision
-
-## Backend
-
-- Python
-- FastAPI
-- REST APIs
-
-## Frameworks
-
-- PyTorch
-- TensorFlow
-- Scikit-Learn
-- Streamlit
-- Pandas
-- NumPy
-
-## Databases
-
-- Redis
-- Milvus
-- MySQL
-- SQL
-
-## DevOps
-
-- Docker
-- Git
-- GitHub
-- CI/CD
-- Cloud Deployment
+**🏢 Junior AI Engineer — Tech Mahindra, Bengaluru** `Nov 2023 – Dec 2024`
+- AI-powered Sales Intelligence Platform integrated into ERP — **+23% revenue**, **-47%** customer escalations
+- Business Process Automation & Email Agent — 60%+ first-response resolution, manual effort cut from 8h → 20min/cycle
+- Migrated a monolithic PHP system to Golang (Gin/GORM) using goroutines — API latency 600ms → **<200ms**
+- Automated WhatsApp/SMS/Email marketing at scale via PHP cron jobs; optimized Redis/MySQL for high-traffic segments
 
 ---
 
-# 🎯 Interests
+### 🛠️ Tech Stack
 
-- Agentic AI
-- Voice AI
-- Multi-Agent Systems
-- AI Infrastructure
-- Cloud AI
-- Generative AI
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,pytorch,docker,redis,git,github,mysql,go,php,linux,vscode&theme=dark" />
+
+</div>
+
+<div align="center">
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pipecat](https://img.shields.io/badge/Pipecat-000000?style=for-the-badge)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-111111?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
+
+</div>
 
 ---
 
-# 📫 Connect
+### 🚀 Featured Projects
 
-📧 punithraj.official@gmail.com
+<div align="center">
 
-💼 https://linkedin.com/in/kpunithraj
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=punithrajofficial-collab&repo=predictive-dialer-project&theme=tokyonight" /></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=punithrajofficial-collab&repo=healthcare-chatbot&theme=tokyonight" /></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=punithrajofficial-collab&repo=whatsapp-recruiter-chatbot&theme=tokyonight" /></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=punithrajofficial-collab&repo=email-triage-agent&theme=tokyonight" /></a>
 
-💻 https://github.com/punithrajofficial-collab
+</div>
+
+> ⚠️ Rename the `repo=` values above to your actual repo names once pushed — pin cards only render for real repos.
 
 ---
 
-<p align="center">
-⭐ Building AI that creates measurable business impact ⭐
-</p>
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=punithrajofficial-collab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=punithrajofficial-collab&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=punithrajofficial-collab&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+---
+
+### 🎓 Education
+
+**Bachelor of Computer Applications (BCA)** — Mahatma Gandhi University `June 2020 – June 2023` · CGPA: 6.87
+
+---
+
+<div align="center">
+
+### 🌐 Connect With Me
+
+<a href="https://linkedin.com/in/kpunithraj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:punithraj.official@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/punithrajofficial-collab"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=punithrajofficial-collab&color=blueviolet&style=for-the-badge)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
+
+</div>

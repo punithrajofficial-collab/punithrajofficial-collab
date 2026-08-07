@@ -70,14 +70,14 @@ AI Engineer with expertise in **LLMs, RAG, Agentic AI, and Conversational AI**. 
 
 <div align="center">
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=punithrajofficial-collab&repo=predictive-dialer-project&theme=tokyonight" /></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=punithrajofficial-collab&repo=healthcare-chatbot&theme=tokyonight" /></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=punithrajofficial-collab&repo=whatsapp-recruiter-chatbot&theme=tokyonight" /></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=punithrajofficial-collab&repo=email-triage-agent&theme=tokyonight" /></a>
+<a href="https://github.com/punithrajofficial-collab/unified-hiring-pipeline"><img src="https://github-readme-stats.vercel.app/api/pin/?username=punithrajofficial-collab&repo=unified-hiring-pipeline&theme=tokyonight" /></a>
+<a href="https://github.com/punithrajofficial-collab/multi-agent-healthcare-chatbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=punithrajofficial-collab&repo=multi-agent-healthcare-chatbot&theme=tokyonight" /></a>
+<a href="https://github.com/punithrajofficial-collab/Whatsapp-recruiter-chatbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=punithrajofficial-collab&repo=Whatsapp-recruiter-chatbot&theme=tokyonight" /></a>
+<a href="https://github.com/punithrajofficial-collab/Voice-AI-Assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=punithrajofficial-collab&repo=Voice-AI-Assistant&theme=tokyonight" /></a>
+<a href="https://github.com/punithrajofficial-collab/business-process-automation-email-agent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=punithrajofficial-collab&repo=business-process-automation-email-agent&theme=tokyonight" /></a>
+<a href="https://github.com/punithrajofficial-collab/AI-Resume-Analyzer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=punithrajofficial-collab&repo=AI-Resume-Analyzer&theme=tokyonight" /></a>
 
 </div>
-
-> ⚠️ Rename the `repo=` values above to your actual repo names once pushed — pin cards only render for real repos.
 
 ---
 

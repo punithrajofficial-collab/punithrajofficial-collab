@@ -94,6 +94,16 @@ AI Engineer with expertise in **LLMs, RAG, Agentic AI, and Conversational AI**. 
 
 ---
 
+### 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/punithrajofficial-collab/punithrajofficial-collab/output/github-contribution-grid-snake-dark.svg?v=2" width="100%"/>
+
+</div>
+
+---
+
 ### 🎓 Education
 
 **Bachelor of Computer Applications (BCA)** — Mahatma Gandhi University `June 2020 – June 2023` · CGPA: 6.87
@@ -107,6 +117,7 @@ AI Engineer with expertise in **LLMs, RAG, Agentic AI, and Conversational AI**. 
 <a href="https://linkedin.com/in/kpunithraj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:punithraj.official@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/punithrajofficial-collab"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/punithrajofficial-collab/PunithRaj---AI"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 <br/><br/>
 
